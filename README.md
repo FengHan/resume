@@ -12,12 +12,13 @@
 
 # 个人信息
 
- - 韩峰/ 男/ 1988 
- - 本科/聊城大学/ 生物工程 
+ - 韩峰/ 男/ 1988/ 黑龙江人 
+ - 本科/聊城大学/ 生物工程（本科） 
  - 工作年限：3年
  - 技术博客：http://hanfeng.name
 
  - 期望职位：PHP开发工程师
+ - 期望薪资：16k ~ 18k
  - 期望城市：宁波
 
 ---
@@ -175,8 +176,7 @@
 	-  负载均衡的实现
 	-  与php5-fpm搭配使用
 3. MySQL 
-	- MySQL 主从数据库搭建
-	- MySQL读写分离
+	- MySQL主从复制
 	- MySQL水平、垂直分表原理
 4. Redis
  	- 熟悉Redis五种常见的数据结构
@@ -192,7 +192,7 @@
 	- JavaScript/ HTML/ CSS/ AJAX/ XML
 	- jQuery
 7. 项目开发工具
-	- Git/ PHPStorm/ NaviCat/ Vagrant/
+	- Git/ PHPStorm/ Vim/ NaviCat/ Vagrant
 
 
 
